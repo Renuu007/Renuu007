@@ -6,8 +6,26 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
+<p align="left">
+  ```
+  struct Renuka {
+    string pronouns = "She/Her";
+    vector<string> code = {"C++", "Python", "JavaScript", "Ruby"};
+    vector<string> askMeAbout = {"Cloud Computing", "AI-ML", "LLM"};
+    
+    struct Technologies {
+        vector<string>> Skills = {"Linux", "Git/GitHub", "PowerBI", "Express"};
+        vector<string>> Softwers = {"Canva", "Figma"};
+        vector<string> Cloud = {"Azure", "GCP", "Docker🐳"};
+        vector<string> databases = {"SQL", "sqlite"};
+        vector<string> misc = {"Firebase", "Heroku", "Linode"};
+    } technologies;
+    
+    vector<string> architecture = {"Serverless Architecture",};
+    string currentFocus = "Cloud Computing";
+    string funFact = "There are two ways to write error-free programs; only the third one works";
+};</p>
+```
 ###
 
 <h2 align="left">I code with</h2>
