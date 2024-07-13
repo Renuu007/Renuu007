@@ -8,7 +8,7 @@
 
 <p align="left">
  
-```
+```Cpp
  struct Renuka {
     string pronouns = "She/Her";
     vector<string> code = {"C++", "Python", "JavaScript", "Ruby"};
