@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
- ```
+ ```code
  struct Renuka {
     string pronouns = "She/Her";
     vector<string> code = {"C++", "Python", "JavaScript", "Ruby"};
