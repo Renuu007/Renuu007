@@ -17,11 +17,11 @@
     vector<string> askMeAbout = {"Cloud Computing", "AI-ML", "LLM"};
     
     struct Technologies {
-        vector<string>> Skills = {"Linux", "Git/GitHub", "PowerBI", "Express"};
+        vector<string>> Skills = {"Linux", "Git/GitHub", "PowerBI"};
         vector<string>> Softwers = {"Canva", "Figma"};
         vector<string> Cloud = {"Azure", "GCP", "Docker🐳"};
+        vector<string> Serverless = {"Firebase", "Heroku", "Linode"};
         vector<string> databases = {"SQL", "sqlite"};
-        vector<string> misc = {"Firebase", "Heroku", "Linode"};
     } technologies;
     
     vector<string> architecture = {"Serverless Architecture",};
