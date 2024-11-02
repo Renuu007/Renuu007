@@ -38,5 +38,5 @@
 
 # Badge Links
 
-Badge: https://github.com/girlscript/gssoc-website-new/tree/main/public/badges
+Badge: https://badgr.com/public/assertions/oCaI7HqfRVqWQsAx649_WQ?identity__email=renuu.sun007@gmail.com
 
