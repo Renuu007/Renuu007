@@ -35,8 +35,3 @@
 
 <em><b> It always seems impossible until it's done... </b></em>
 
-
-# Badge Links
-
-Badge: https://badgr.com/public/assertions/oCaI7HqfRVqWQsAx649_WQ?identity__email=renuu.sun007@gmail.com
-
