@@ -13,14 +13,14 @@
 ```Cpp
  struct Renuka {
     string pronouns = "She/Her";
-    vector<string> code = {"C++", "Python", "JavaScript", "Ruby"};
+    vector<string> code = {"C", "Python", "JavaScript"};
     vector<string> askMeAbout = {"Cloud Computing", "AI-ML", "LLM"};
     
     struct Technologies {
-        vector<string>> Skills = {"Linux", "Git/GitHub", "PowerBI"};
+        vector<string>> Skills = {"Linux", "Git/GitHub"};
         vector<string>> Softwers = {"Canva", "Figma"};
-        vector<string> Cloud = {"Azure", "GCP", "Docker🐳"};
-        vector<string> Serverless = {"Firebase", "Heroku", "Linode"};
+        vector<string> Cloud = {"Azure", "AWS", "Docker🐳"};
+        vector<string> Serverless = {"Firebase", "Heroku"};
         vector<string> databases = {"SQL", "sqlite"};
     } technologies;
     
