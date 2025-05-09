@@ -13,8 +13,8 @@
 ```Cpp
  struct Renuka {
     string pronouns = "She/Her";
-    vector<string> code = {"C", "Python", "JavaScript"};
-    vector<string> askMeAbout = {"Cloud Computing", "AI-ML", "LLM"};
+    vector<string> code = {"C", "Python"};
+    vector<string> askMeAbout = {"Cloud Computing", "AI-ML"};
     
     struct Technologies {
         vector<string>> Skills = {"Linux", "Git/GitHub"};
